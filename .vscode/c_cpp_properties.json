@@ -3,10 +3,10 @@
         {
             "name": "Mac",
             "includePath": [
-                "/Users/mashabow/Library/Arduino15/packages/esp8266/tools/**",
-                "/Users/mashabow/Documents/Arduino/libraries/**",
+                "~/Library/Arduino15/packages/esp8266/tools/**",
+                "~/Documents/Arduino/libraries/**",
                 "/Applications/Arduino.app/Contents/Java/libraries/**",
-                "/Users/mashabow/Library/Arduino15/packages/esp8266/hardware/esp8266/2.7.4/**"
+                "~/Library/Arduino15/packages/esp8266/hardware/esp8266/2.7.4/**"
             ],
             "forcedInclude": [],
             "defines": [
